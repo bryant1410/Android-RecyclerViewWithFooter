@@ -1,4 +1,4 @@
-#RecyclerViewWithFooter
+# RecyclerViewWithFooter
 
  之所以会写这个库，是因为最近遇到朋友问推荐一个好的下拉刷新的库,然后我就给了我收集的[BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)，但是，这时候又有个问题，明明这个库写的很好，就是因为没有加载更多，而另一个库设计的没前一个库好，只是功能比上个库多，所以选择了下一个。对于这种情况我是反对的，呵呵。
  
